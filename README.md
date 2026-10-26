@@ -1,30 +1,30 @@
 # AI Engineer & Data Scientist
 
-I build intelligent applications, automated data workflows, and decision-support systems that turn complex data into practical outcomes. My focus is applied AI: connecting language models, analytics, and reliable data systems to solve real business problems.
+I design and build production-oriented AI systems that combine large language models, retrieval, structured data, and automation to solve real operational problems. My focus is moving AI applications beyond prototypes into reliable, measurable, and useful workflows.
 
-## Areas of focus
+## AI systems focus
 
-- **AI application development** — intelligent assistants, workflow automation, and human-in-the-loop tools
-- **Data science** — exploratory analysis, predictive modeling, evaluation, and communicating results
-- **Analytics engineering** — dependable SQL, data validation, and reproducible reporting
-- **Business intelligence** — Tableau dashboards, KPI reporting, and operational insights
+- **LLM applications** — retrieval-augmented generation (RAG), tool-using assistants, agentic workflows, and structured data extraction
+- **AI reliability** — evaluation, grounding, guardrails, observability, and human-in-the-loop systems
+- **Data science** — predictive modeling, experimentation, validation, and clear communication of results
+- **Data and analytics engineering** — dependable SQL, data-quality controls, reproducible reporting, and decision-support analytics
 
 ## Technical toolkit
 
-- **AI & data science:** Python, applied machine learning, LLM workflows, and prompt engineering
-- **Data:** SQL, Oracle SQL, data modeling, and data-quality analysis
-- **Analytics:** Tableau, Excel, dashboard design, and KPI development
-- **Engineering:** Git, GitHub, APIs, automation, and technical documentation
+- **AI and LLM systems:** RAG, embeddings, vector search, tool and function calling, agent orchestration, and evaluation frameworks
+- **Languages and data:** Python, SQL, Oracle SQL, APIs, data modeling, and data validation
+- **Analytics:** Tableau, Excel, dashboard architecture, and KPI development
+- **Engineering practice:** Git, GitHub, modular workflows, testing, monitoring, automation, and technical documentation
 
-## How I work
+## Engineering principles
 
-- Start with the business decision, not just the model
-- Build transparent, testable data workflows
-- Evaluate AI outputs for accuracy, reliability, and usefulness
-- Design applications that fit real user workflows
+- Ground AI systems in trusted data and verifiable sources
+- Give models controlled, observable access to tools and business workflows
+- Evaluate quality, latency, cost, safety, and reliability—not just model output
+- Keep human oversight where judgment and accountability matter
 
 ## Current direction
 
-I am expanding a public portfolio of applied AI and data science projects, including [stock-project](https://github.com/hos56t/stock-project), currently in development.
+I am expanding a public portfolio of advanced AI and data science applications, including [stock-project](https://github.com/hos56t/stock-project), currently in development.
 
-> Reliable data. Explainable decisions. Useful AI.
+> Reliable data. Evaluated intelligence. Useful AI.

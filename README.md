@@ -25,6 +25,6 @@ I design and build production-oriented AI systems that combine large language mo
 
 ## Current direction
 
-I am expanding a public portfolio of advanced AI and data science applications, including [stock-project](https://github.com/hos56t/stock-project), currently in development.
+I am developing [AI Financial Market Analysis](https://github.com/hos56t/ai-financial-market-analysis), a portfolio project focused on AI-assisted financial research, quantitative market analysis, and intelligent decision-support workflows.
 
 > Reliable data. Evaluated intelligence. Useful AI.
